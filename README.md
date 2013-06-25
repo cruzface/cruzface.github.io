@@ -1,4 +1,4 @@
-cruzface.github.io
-==================
+Google-Page
+===========
 
-Google replica hosted on Git
+This is a replica of the Google search page
